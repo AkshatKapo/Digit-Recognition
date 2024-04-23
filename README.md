@@ -13,7 +13,7 @@ The accuracy of 97%  shows that the model functioned with high accuracy of corre
 
 The higher numbers on the diagonal show that the model is generating correct predictions for most instances.
 
-### Images with Actual and Predicted Results 
+### Images with Actual and Predicted Results :
 
 [
 ![d3](https://github.com/AkshatKapo/Digit-Recognition-System/assets/94620098/2a11041c-0718-4f71-aabe-8ca8f43f4b83)
