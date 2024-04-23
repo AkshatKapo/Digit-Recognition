@@ -10,6 +10,7 @@ The accuracy of 97%  shows that the model functioned with high accuracy of corre
 ### Confusion Matrix
 
 ![image](https://github.com/AkshatKapo/Digit-Recognition-System/assets/94620098/ac6127ef-5dfc-4be6-adbf-f74a40f9564a)
+
 The higher numbers on the diagonal show that the model is generating correct predictions for most instances
 
 
