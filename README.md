@@ -15,4 +15,8 @@ The higher numbers on the diagonal show that the model is generating correct pre
 
 ### Images with Actual and Predicted Results 
 
+[
+![d3](https://github.com/AkshatKapo/Digit-Recognition-System/assets/94620098/2a11041c-0718-4f71-aabe-8ca8f43f4b83)
+](url)
+
 
